@@ -1,3 +1,3 @@
 """A number-guessing game."""
 
-# Put your code here
+# code to get the player's name ....
